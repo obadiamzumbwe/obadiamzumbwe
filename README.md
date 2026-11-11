@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @obadiamzumbwe from Dodoma Tanzania
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on datascience
-- 📫 How to reach me whatsapp: +255625266024
-                      email: obadiamzumbwe@gmail.com
+Software Developer | Laravel & Django | Python & Data Analytics | Health Information Systems | Building practical digital solutions.
 
 <!---
 obadiamzumbwe/obadiamzumbwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
